@@ -3,7 +3,7 @@
 }
 
 .logo {
-  width:20vw;
+  width:18vw;
 }
 /* 
 @media (prefers-reduced-motion: no-preference) {
@@ -14,7 +14,7 @@
 
 .App-header {
   background-color: #0240bc;
-  min-height: 15vh;
+  min-height: 20vh;
   display: flex;
   flex-direction: column;
   align-items: center;
