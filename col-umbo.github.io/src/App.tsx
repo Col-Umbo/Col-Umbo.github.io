@@ -11,7 +11,7 @@ function App() {
         </h1>
         <img src={image} className="wip-gif" alt="It's really broken if you're seeing this" />
         <p>
-          Edit <code>src/App.tsx</code> and save to reload.SAMPLE TEXT
+          Edit <code>src/App.tsx</code> and save to reload.
         </p>
         <a
           className="App-link"
