@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.43662db7.css",
-    "main.js": "/static/js/main.2264eee8.js",
+    "main.js": "/static/js/main.f87e5930.js",
     "static/js/453.da1e67d6.chunk.js": "/static/js/453.da1e67d6.chunk.js",
     "static/media/IMG_6354.jpeg": "/static/media/IMG_6354.6cab4d2077d73517a527.jpeg",
     "static/media/IMG_6353.jpeg": "/static/media/IMG_6353.9d20d04aecb56fb7bdbb.jpeg",
@@ -21,11 +21,11 @@
     "static/media/Gunpla_Logo.png": "/static/media/Gunpla_Logo.7e3623db92f71b806912.png",
     "index.html": "/index.html",
     "main.43662db7.css.map": "/static/css/main.43662db7.css.map",
-    "main.2264eee8.js.map": "/static/js/main.2264eee8.js.map",
+    "main.f87e5930.js.map": "/static/js/main.f87e5930.js.map",
     "453.da1e67d6.chunk.js.map": "/static/js/453.da1e67d6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.43662db7.css",
-    "static/js/main.2264eee8.js"
+    "static/js/main.f87e5930.js"
   ]
 }
